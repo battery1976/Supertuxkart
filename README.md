@@ -218,4 +218,4 @@ SuperTuxKart is offered as a full **free version** with all features unlocked an
 Get ready to race! Download SuperTuxKart today and join the fun!
 
 ---
-**Last updated:** 2026-10-14 05:47:32 UTC
+**Last updated:** 2026-10-14 11:09:51 UTC
